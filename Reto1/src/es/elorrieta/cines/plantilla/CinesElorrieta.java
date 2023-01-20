@@ -23,7 +23,7 @@ public class CinesElorrieta {
 
 	// Claves del usuario
 	public static String usuarioDelPrograma = "admin";
-	public static String claveDelPrograma = "admin";
+	public static String claveDelPrograma = "12345";
 
 	// Peliculas disponibles con sus generos y su duracion
 	public static String peliculasString = "Drama, Memorias de Ana Frank, 2 - Drama, Su mejor historia, 1 - "
