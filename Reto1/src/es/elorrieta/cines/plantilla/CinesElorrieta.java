@@ -22,7 +22,7 @@ public class CinesElorrieta {
 	public static int tiempoRestanteDomingo = NUMERO_HORAS_DOMINGO;
 
 	// Claves del usuario
-	public static String usuarioDelPrograma = "admin";
+	public static String usuarioDelPrograma = "root";
 	public static String claveDelPrograma = "12345";
 
 	// Peliculas disponibles con sus generos y su duracion
